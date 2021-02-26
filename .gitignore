@@ -1,7 +1,0 @@
-# Ignore IDEA project files
-.idea
-*.iml
-target/
-build/
-.gradle/
-.settings/
